@@ -1,0 +1,13 @@
+E:\File cua son\Phát triển UDPM.pptx_files\App_Diem_Danh\App_Diem_Danh\obj\Debug\App_Diem_Danh.csproj.AssemblyReference.cache
+E:\File cua son\Phát triển UDPM.pptx_files\App_Diem_Danh\App_Diem_Danh\obj\Debug\App_Diem_Danh.Properties.Resources.resources
+E:\File cua son\Phát triển UDPM.pptx_files\App_Diem_Danh\App_Diem_Danh\obj\Debug\App_Diem_Danh.csproj.GenerateResource.cache
+E:\File cua son\Phát triển UDPM.pptx_files\App_Diem_Danh\App_Diem_Danh\obj\Debug\App_Diem_Danh.csproj.CoreCompileInputs.cache
+E:\File cua son\Phát triển UDPM.pptx_files\App_Diem_Danh\App_Diem_Danh\bin\Debug\App_Diem_Danh.exe.config
+E:\File cua son\Phát triển UDPM.pptx_files\App_Diem_Danh\App_Diem_Danh\bin\Debug\App_Diem_Danh.exe
+E:\File cua son\Phát triển UDPM.pptx_files\App_Diem_Danh\App_Diem_Danh\bin\Debug\App_Diem_Danh.pdb
+E:\File cua son\Phát triển UDPM.pptx_files\App_Diem_Danh\App_Diem_Danh\obj\Debug\App_Diem_Danh.frmLogin.resources
+E:\File cua son\Phát triển UDPM.pptx_files\App_Diem_Danh\App_Diem_Danh\obj\Debug\App_Diem_Danh.exe
+E:\File cua son\Phát triển UDPM.pptx_files\App_Diem_Danh\App_Diem_Danh\obj\Debug\App_Diem_Danh.pdb
+E:\File cua son\Phát triển UDPM.pptx_files\App_Diem_Danh\App_Diem_Danh\obj\Debug\App_Diem_Danh.frmDangky.resources
+E:\File cua son\Phát triển UDPM.pptx_files\App_Diem_Danh\App_Diem_Danh\obj\Debug\App_Diem_Danh.frmMain.resources
+E:\File cua son\Phát triển UDPM.pptx_files\App_Diem_Danh\App_Diem_Danh\obj\Debug\App_Diem_Danh.frmDiemDanh.resources
